@@ -1,7 +1,7 @@
 ### Hi there, my name is Thais  👋
 - 🔭 I’m currently working as a Junior FrontEnd Developer
 - 🌱 I’m currently learning PHP
-- 📫 How to reach me: thssicss@gmail.com
+<!-- 📫 How to reach me: thssicss@gmail.com -->
 - 😄 Pronouns: she/her
 - <a href="https://gitlab.com/tsilva98" target="_blank">GitLab</a>
 
