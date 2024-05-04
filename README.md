@@ -1,5 +1,4 @@
 ### Hi there, my name is Thais  👋
-- 🔭 I’m currently working as a Junior FrontEnd Developer
 - 🌱 I’m currently learning PHP
 <!-- 📫 How to reach me: thssicss@gmail.com -->
 - 😄 Pronouns: she/her
