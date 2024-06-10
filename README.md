@@ -1,4 +1,6 @@
 ### Hi there, my name is Thais  👋
+
+- My stats on Github are low because for the past year and a half I have been using Gitlab.
 - 🌱 I’m currently learning PHP
 <!-- 📫 How to reach me: thssicss@gmail.com -->
 - 😄 Pronouns: she/her
